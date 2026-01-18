@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
