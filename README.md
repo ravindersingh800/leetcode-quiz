@@ -28,6 +28,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0007-reverse-integer) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
 ## Counting
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
