@@ -6,10 +6,12 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
+| [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -22,4 +24,9 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0007-reverse-integer) |
+| [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
