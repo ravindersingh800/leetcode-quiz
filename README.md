@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
