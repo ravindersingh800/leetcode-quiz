@@ -47,6 +47,7 @@
 | [0009-palindrome-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
