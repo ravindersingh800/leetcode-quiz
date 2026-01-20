@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -65,9 +66,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
