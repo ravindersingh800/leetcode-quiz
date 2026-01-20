@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -26,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
