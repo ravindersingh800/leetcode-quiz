@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
@@ -79,6 +81,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
