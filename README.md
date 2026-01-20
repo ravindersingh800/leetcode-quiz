@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
