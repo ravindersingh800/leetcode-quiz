@@ -67,6 +67,7 @@
 | [0231-power-of-two](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
 ## Counting
 |  |
@@ -92,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
+| [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +148,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
