@@ -25,6 +25,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0151-reverse-words-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Brainteaser
 |  |
 | ------- |
