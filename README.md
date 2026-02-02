@@ -34,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -47,6 +48,7 @@
 | [0058-length-of-last-word](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
