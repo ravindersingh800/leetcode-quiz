@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0058-length-of-last-word) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
