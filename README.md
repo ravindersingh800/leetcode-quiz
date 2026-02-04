@@ -53,6 +53,7 @@
 | [0520-detect-capital](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [0054-spiral-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -172,4 +174,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
