@@ -51,6 +51,7 @@
 | [0344-reverse-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0520-detect-capital) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
@@ -170,4 +171,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
