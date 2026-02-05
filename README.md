@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
