@@ -40,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -85,6 +87,7 @@
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
