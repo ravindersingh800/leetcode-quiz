@@ -28,6 +28,7 @@
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
