@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
@@ -186,4 +188,8 @@
 | [0682-baseball-game](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2390-removing-stars-from-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
