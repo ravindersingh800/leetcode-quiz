@@ -23,6 +23,7 @@
 | [0682-baseball-game](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -126,6 +127,7 @@
 | [0069-sqrtx](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0875-koko-eating-bananas) |
 ## String Matching
 |  |
 | ------- |
