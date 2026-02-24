@@ -171,6 +171,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
