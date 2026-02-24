@@ -126,6 +126,7 @@
 | [0344-reverse-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -217,4 +218,5 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
