@@ -124,6 +124,7 @@
 | [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -215,4 +216,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
