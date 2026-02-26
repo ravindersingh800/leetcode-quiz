@@ -9,6 +9,6 @@ public:
         for(auto ch:word2){
             s2+=ch;
         }
-           return (s1==s2)? true : false;
+           return (s1==s2);
     }
 };
