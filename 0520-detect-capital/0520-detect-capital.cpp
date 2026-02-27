@@ -1,19 +1,23 @@
 class Solution {
 public:
     bool detectCapitalUse(string word) {
-        int count = 0;
-        int n = word.size();
-
-        for (auto x : word) {
-            if (isupper(x)) {
-                count++;
+        int capital=0;
+        for(auto x:word){
+            if(x>='A'&& x<='Z'){
+                capital++;
             }
         }
-
-        if (count == n) return true;                 
-        if (count == 0) return true;                 
-        if (count == 1 && isupper(word[0])) return true; 
-
-        return false;
+        if(capital==word.size()){
+            return true;
+        }
+        else if(capital==0){
+            return true;
+        }
+        else if(word[0]>='A' && word[0]<='Z'&& capital==1){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
