@@ -68,6 +68,7 @@
 | [0383-ransom-note](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1768-merge-strings-alternately) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
