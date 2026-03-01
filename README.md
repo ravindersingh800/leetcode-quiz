@@ -96,6 +96,7 @@
 | [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0326-power-of-three) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
