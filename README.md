@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1470-shuffle-the-array) |
@@ -83,6 +84,7 @@
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -133,6 +135,7 @@
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2396-strictly-palindromic-number) |
