@@ -45,6 +45,7 @@
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -65,6 +66,7 @@
 | [0125-valid-palindrome](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +85,7 @@
 | [0075-sort-colors](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
