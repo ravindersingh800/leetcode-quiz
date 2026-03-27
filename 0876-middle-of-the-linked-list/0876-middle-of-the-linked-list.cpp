@@ -2,7 +2,8 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-       int length=0;
+    
+    int length=0;
        ListNode*temp= head;
        while(temp!=NULL){
         length++;
