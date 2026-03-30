@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0205-isomorphic-strings) |
@@ -133,6 +134,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
@@ -237,6 +239,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
