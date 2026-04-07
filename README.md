@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,6 +104,7 @@
 | [0070-climbing-stairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0342-power-of-four) |
@@ -126,6 +128,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
@@ -253,4 +256,8 @@
 | [0328-odd-even-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravindersingh800/leetcode-quiz/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
