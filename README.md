@@ -108,6 +108,7 @@
 | [0231-power-of-two](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ravindersingh800/leetcode-quiz/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ravindersingh800/leetcode-quiz/tree/master/1979-find-greatest-common-divisor-of-array) |
